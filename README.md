@@ -1,36 +1,59 @@
 # MySQL Healthcare Database
 
-This project involves the design and implementation of a relational healthcare database using MySQL. The goal was to model real-world healthcare data while applying proper database design principles.
+This repository contains a relational healthcare database project developed using MySQL.
+The project models real-world healthcare data and applies core database design principles.
 
 ---
 
-## 📌 Project Overview
-The database includes structured tables for:
+## 📁 Repository Contents
+This repository includes:
+- SQL files that define tables, relationships, and constraints
+- Insert and query statements for healthcare data
+- A MySQL Workbench model file (if applicable)
+
+All files are intended to be run using MySQL or MySQL Workbench.
+
+---
+
+## 📌 Database Overview
+The database includes tables for:
 - Patients
 - Employees and employee roles
 - Medical conditions
 - Surgeries
 - Prescriptions
 
-The project emphasizes normalization, clear relationships, and data integrity through the use of primary and foreign keys.
+Relationships are enforced using primary and foreign keys to maintain data integrity.
 
 ---
 
 ## 🛠️ Tools & Technologies
 - MySQL
 - SQL (DDL & DML)
+- MySQL Workbench
 
 ---
 
-## 🧠 Key Concepts Applied
+## 🧠 Concepts Demonstrated
 - Database normalization
-- Primary and foreign keys
+- Relational modeling
 - One-to-many and many-to-many relationships
+- Primary and foreign key constraints
 - Insert, update, and select queries
 
 ---
 
-## 🎯 Purpose
-This project was completed as part of coursework to strengthen skills in database design, relational modeling, and SQL querying.
+## ▶️ How to Use
+Open the SQL files in MySQL Workbench or a MySQL client and run them in order.
+No additional configuration is required.
 
-Future improvements may include additional queries, indexing, and performance optimization.
+---
+
+## 🎯 Purpose
+This project was completed as part of university coursework to demonstrate practical
+skills in relational database design and SQL querying.
+
+---
+
+## 📎 Notes
+This repository reflects my own academic work and understanding.
